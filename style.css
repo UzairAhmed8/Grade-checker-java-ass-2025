@@ -29,9 +29,9 @@ label{
 
 input{
     width: 250px;
-    padding: 10px 0;
+    padding: 10px 5px;
     border-radius: 15px;
-    color: black;
+    color: white;
     background-color: #373737;
     border: none;
 }
