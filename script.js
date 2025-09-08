@@ -25,6 +25,7 @@ function checkResult(event){
     // Taking out the Percentage
 
     let percentageOfsubjetcs = (obtainedMarks / totalMarks) * 100;
+    percentageOfsubjetcs = percentageOfsubjetcs.toFixed(2)
 
     // show Result
 
