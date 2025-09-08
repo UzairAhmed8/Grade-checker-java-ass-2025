@@ -1,5 +1,6 @@
-function checkResult(){
-    
+function checkResult(event){
+    event.preventDefault();
+
     //For Total Variable
 
     let chemistryTotal = Number(document.getElementById("chemistryTotal").value);
